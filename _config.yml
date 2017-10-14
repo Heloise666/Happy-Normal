@@ -1,20 +1,19 @@
 # main text of home
-name: Jane Doe
-bio: A Girl who travels the world eating noodles
+name: Shithead Mcgee
+bio: I'm floating in space
 
 # twitter summary info
-description: A blog about technology and stuff related
-
+description: Stuff concerning Happy Normal
 picture: assets/images/picture.jpg
 
 url: http://koppl.in/violet
 # your url: http://USERNAME.github.io
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-github: mygithub
-email: me@jane.doe
+#facebook: myfacebook
+#twitter: mytwitter
+github: Heloise666
+email: huenotelos@gmail.com
 
 gems:
   - jekyll-seo-tag
