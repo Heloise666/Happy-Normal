@@ -3,6 +3,10 @@ name: Hueno Lonedom GardenPearl FlamingoFetus Melloexdreams
 bio: i want to die
 title: Little Aech
 
+<script>
+ document.title = "Little Aech"
+ </script>
+
 # twitter summary info
 description: Stuff concerning Happy Normal
 picture: assets/images/water.gif
