@@ -16,9 +16,6 @@ url: http://heloise666.github.io
 github: Heloise666
 email: huenotelos@gmail.com
 
-<link rel="author" href="https://plus.google.com/+happynormal"/>
-
-
 gems:
 plugins:
   - jekyll-seo-tag
