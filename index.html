@@ -1,36 +1,42 @@
 ---
-layout: default
-title: Home
----
-<header>
 
-  <h1>
-    <img alt="{{ site.name }} picture" src="http://data.whicdn.com/images/206061034/original.gif"/>
+body {
+    margin: 0;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+</style>
+</head>
+<body>
+
+<h2>Happy Normal</h2>
+
+<div class="row">
+  <div class="column">
+    <h2> <img alt="{{ site.name }} picture" src="http://data.whicdn.com/images/206061034/original.gif"/>
 
     <strong><a href="./">{{ site.name }}</a></strong>
-  </h1>
-float: left; width: 200px; padding: 10px;
-  <p>
-    Happy Normal</br>
+  </h2>
+    <p>Happy Normal</br>
     Trying something new</br>
-    Bum bum bum bum
-  </p>
-
-
-  <nav>
-    <ul>
-        <li><a href="mailto:{{ site.email }}">huenotelos@gmail.com</a></li>
-    </ul>
-  </nav>
-
-</header>
-
-<h2>
-  Posts
-</h2>  
-float: left; width: 200px; padding: 20px;
-
-  <p>
+    Bum bum bum bum</p>
+  </div>
+  <div class="column">
+    <h2>Posts</h2>
+    <p>
     I really like <a href="https://www.google.com/search?q=grunge+gifs+vhs">VHS grunge gifs</a>, and <a href="https://google.com/search?q=mother+mother">music</a>.
   </p>
 
@@ -84,5 +90,13 @@ so much it might kill you..</br>
 Everything comes full circle.</br>
 I just wish you would understand.
 </p>
+  </div>
+  <div class="column">
+    <h2>Photos</h2>
+    <p>Some text..</p>
+  </div>
+</div>
 
-</section>
+</body>
+</html>
+
