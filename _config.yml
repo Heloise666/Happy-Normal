@@ -7,7 +7,7 @@ title: Little Aech
 description: Stuff concerning Happy Normal
 picture: assets/images/water.gif
 
-url: http://koppl.in/violet
+url: http://heloise666.github.io
 # your url: http://USERNAME.github.io
 
 # if you don't have any of social below, comment the line
@@ -15,6 +15,9 @@ url: http://koppl.in/violet
 #twitter: mytwitter
 github: Heloise666
 email: huenotelos@gmail.com
+
+<link rel="author" href="https://plus.google.com/+happynormal"/>
+
 
 gems:
 plugins:
