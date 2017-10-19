@@ -16,6 +16,6 @@ github: Heloise666
 email: huenotelos@gmail.com
 
 gems:
-  - jekyll-seo-tag
+  - dc
 
 exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh, vendor]
